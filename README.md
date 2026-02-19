@@ -6,7 +6,7 @@ Full-stack Data Analytics project: SQL data modeling, Python RFM &amp; Market Ba
 This project was developed as a joint effort, combining Database Engineering and Business Analytics.
 
 ### 🛠️ Core Contributors:
-- Debashish  Sahoo: Focused on the **Data Foundation**. Managed the SQL Database architecture, Fact/Dimension table modeling, and initial ETL processes to ensure data integrity.
+- Debasish  Sahoo: Focused on the **Data Foundation**. Managed the SQL Database architecture, Fact/Dimension table modeling, and initial ETL processes to ensure data integrity.
 - Amna Bi Hafeez: Focused on the **Intelligence Layer**. Developed the Python-based RFM and Market Basket models and designed the interactive Power BI dashboard for end-users.
 
 ##  Project Architecture
