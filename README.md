@@ -50,6 +50,12 @@ By integrating **SQL-based Data Warehousing**, **Python-driven Predictive Analyt
 - Designed geographical heat maps and KPI scorecards
 - Integrated dynamic slicers to filter performance by customer loyalty segments
 
+### 4️⃣ Automation & Orchestration
+- Configured Windows Task Scheduler to automate weekly ETL execution and SQL data refresh
+- Automated execution of Python-based RFM analysis scripts on refreshed datasets
+- Enabled seamless refresh of Power BI dashboards using updated SQL outputs
+- Ensured an end-to-end, hands-off analytics and reporting pipeline
+  
 ---
 
 ## 👥 Professional Contributions
