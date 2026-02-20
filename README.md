@@ -82,7 +82,7 @@ By integrating **SQL-based Data Warehousing**, **Python-driven Predictive Analyt
 ## 🚀 Deployment Instructions
 
 ### 1️⃣ Initialize Database
-- Execute SQL scripts located in the `/Database_Engineering` folder
+- Execute the SQL script `Week 1 SQL queries.sql` located in the repository root
 
 ### 2️⃣ Execute Analytics
 Run the following Python scripts:
