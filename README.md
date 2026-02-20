@@ -93,7 +93,7 @@ The system enables data-driven marketing, revenue optimization, and automated ex
 - Architected the Power BI dashboard with high-fidelity, interactive visualizations.  
 - Authored advanced DAX measures to drive complex business KPIs and performance scorecards.  
 - Integrated Python-to-BI data workflows to ensure seamless analytical reporting.  
-- Optimized dashboard UX/UI for intuitive, "one-click" executive data exploration
+- Optimized dashboard UX/UI for intuitive, "one-click" executive data exploration.
 
 ---
 
