@@ -4,7 +4,7 @@ import numpy as np
 # --- STEP 1: LOADING THE DATA ---
 # We tell Python to open your Excel file
 print("Opening the Excel file...")
-df = pd.read_excel("./Sales Dataset.xlsx")
+df = pd.read_excel("./01_Sales Dataset.xlsx")
 
 # We clean up the column names so there are no weird spaces or hidden characters
 df.columns = df.columns.str.strip().str.replace('\n', ' ', regex=False)
@@ -68,3 +68,4 @@ rfm.to_excel("Final_Customer_Segmentation.xlsx", index=False)
 print("\n--- PROJECT PREVIEW ---")
 print(rfm[['CustomerName', 'Segment', 'Monetary']].head(10))
 print("\nSuccess! Your file 'Final_Customer_Segmentation.xlsx' is ready for Power BI.")
+
