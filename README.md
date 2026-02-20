@@ -69,7 +69,7 @@ By integrating **SQL-based Data Warehousing**, **Python-driven Predictive Analyt
 - Implemented initial ETL flow and Task Scheduler automation to enable weekly automated data refresh
 - Ensured data integrity, consistency, and hands-off reporting without manual intervention
 
-**Note:** The dataset was renamed at the SQL table level 
+**Note:** The dataset was renamed at the SQL table level for analysis consistency; the underlying source data remains unchanged
 
 ---
 
