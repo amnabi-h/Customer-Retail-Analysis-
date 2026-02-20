@@ -43,7 +43,7 @@ By integrating **SQL-based Data Warehousing**, **Python-driven Predictive Analyt
 ### 2️⃣ The Intelligence — Predictive Modeling
 - Developed Python scripts using **Pandas** for quintile-based RFM scoring
 - Implemented Association Rule Mining using the **Mlxtend** library
-- Evaluated rules using **Support, Confidence, and Lift** metrics for real-world insights
+- Evaluated rules using **Support, Confidence, and Lift** metrics for real-world Market Basket Analysis
 
 ### 3️⃣ The Face — Executive Dashboard
 - Built an interactive **Power BI Executive Dashboard**
@@ -61,10 +61,15 @@ By integrating **SQL-based Data Warehousing**, **Python-driven Predictive Analyt
 - Translated complex analytical outputs into decision-ready visual insights
 
 ### 👤 Debasish Sahoo — Data Engineering & Automation Lead
-- Architected the complete SQL data foundation and schema design
-- Cleaned, normalized, and optimized raw retail data for analytics
-- Implemented end-to-end pipeline automation using Task Scheduler
-- Ensured seamless handoff and self-sustaining system execution
+- Took ownership of the data foundation by cleaning and preparing raw retail data and loading it into SQL tables
+- Designed and managed a fact/dimension-style SQL database architecture to support analytical reporting
+- Developed business-oriented SQL queries to analyze sales, revenue, profitability, category performance, regional trends, and loss-making transactions
+- Created reusable SQL views to serve as a clean and consistent reporting layer for downstream analytics
+- Prepared SQL-level RFM base views to support customer-level analysis (modeling handled separately)
+- Implemented initial ETL flow and Task Scheduler automation to enable weekly automated data refresh
+- Ensured data integrity, consistency, and hands-off reporting without manual intervention
+
+**Note:** The dataset was renamed at the SQL table level 
 
 ---
 
