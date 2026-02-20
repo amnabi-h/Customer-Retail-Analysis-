@@ -2,7 +2,7 @@ import pandas as pd
 from mlxtend.frequent_patterns import apriori, association_rules
 
 print("Step 1: Loading your sales data...")
-df = pd.read_excel("./Sales Dataset.xlsx")
+df = pd.read_excel("./01_Sales Dataset.xlsx")
 
 # Cleaning column names
 df.columns = df.columns.str.strip().str.replace('\n', ' ', regex=False)
@@ -40,3 +40,4 @@ print(f"I found {len(final_rules)} shopping patterns this time!")
 print("\nTop 5 Patterns Found:")
 print(final_rules[['items_bought', 'likely_to_buy_next']].head())
 print("\nLook for 'Market_Basket_Rules.xlsx' in your folder.")
+
