@@ -15,7 +15,7 @@ By integrating **SQL-based Data Warehousing**, **Python-driven Predictive Analyt
 - Supported identification of underperforming categories, regions, and loss-making transactions
 - Improved decision-making by delivering consistent, reusable SQL views for reporting and analytics
 - Increased operational efficiency through automated weekly data refresh with minimal manual intervention
-- 
+
 ### 🎯 Targeted Marketing (RFM Analysis)
 - Transitioned from generic marketing to precision targeting
 - Segmented customers into **Champions, At Risk, and Hibernating** groups
