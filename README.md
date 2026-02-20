@@ -87,14 +87,13 @@ The system enables data-driven marketing, revenue optimization, and automated ex
 
 ### 👤 Amna Bi Hafeez — Analytics & BI Lead
 
-- Developed the core Python Predictive Suite, transforming raw sales data into actionable business intelligence.  
-- Engineered the RFM Segmentation logic to categorize customers into high-value and at-risk loyalty tiers.  
-- Implemented the Apriori Algorithm for Market Basket Analysis to identify strategic product-bundling opportunities.  
-- Designed a high-fidelity, interactive Power BI dashboard for real-time executive decision-making.  
-- Authored complex DAX measures and calculated columns to drive advanced data visualizations.  
-- Bridged the gap between backend data and frontend insights through seamless Python-to-BI integration.  
-- Conducted statistical validation of customer patterns to ensure high confidence in predictive outcomes.  
-- Optimized the user experience (UX) of the final reporting tool for intuitive, "one-click" data exploration.
+- Developed the Python Predictive Suite for automated customer and product analytics.  
+- Engineered RFM models to segment the customer base into actionable loyalty tiers.  
+- Implemented Market Basket Analysis using the Apriori algorithm to identify cross-sell trends.  
+- Architected the Power BI dashboard with high-fidelity, interactive visualizations.  
+- Authored advanced DAX measures to drive complex business KPIs and performance scorecards.  
+- Integrated Python-to-BI data workflows to ensure seamless analytical reporting.  
+- Optimized dashboard UX/UI for intuitive, "one-click" executive data exploration
 
 ---
 
