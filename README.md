@@ -8,6 +8,14 @@ By integrating **SQL-based Data Warehousing**, **Python-driven Predictive Analyt
 
 ## 🎯 Business Value & Strategic Insights
 
+### 📊 SQL-Driven Business Value & Strategic Insights
+
+- Established a reliable SQL-based reporting foundation by cleaning and structuring raw retail data
+- Enabled management-level visibility into sales, revenue, and profitability trends
+- Supported identification of underperforming categories, regions, and loss-making transactions
+- Improved decision-making by delivering consistent, reusable SQL views for reporting and analytics
+- Increased operational efficiency through automated weekly data refresh with minimal manual intervention
+- 
 ### 🎯 Targeted Marketing (RFM Analysis)
 - Transitioned from generic marketing to precision targeting
 - Segmented customers into **Champions, At Risk, and Hibernating** groups
