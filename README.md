@@ -117,7 +117,7 @@ The system enables data-driven marketing, revenue optimization, and automated ex
 
 ### 1️⃣ Initialize Database
 
-- Execute the SQL script `Week 1 SQL queries.sql` located in the repository root  
+- Execute the SQL script `1_Week 1 SQL queries.sql` located in the repository root  
 
 ---
 
@@ -126,5 +126,5 @@ The system enables data-driven marketing, revenue optimization, and automated ex
 Run the following Python scripts:
 
 ```bash
-python rfm_analysis.py
-python basket_analysis.py
+2_rfm_analysis.py
+3_basket_analysis.py
